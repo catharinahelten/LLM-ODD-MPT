@@ -1,0 +1,9 @@
+
+Terminal:
+
+cd [Project Folder]
+
+Run:
+
+pip install -r requirements.txt
+python gpt_api_gui.py
